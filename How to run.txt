@@ -1,0 +1,2 @@
+open the file
+./executable/Debug/WindowsFormsApplication1.exe
